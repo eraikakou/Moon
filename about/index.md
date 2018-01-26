@@ -1,37 +1,23 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About the Blog
+tags: [about, data, blog]
+date: 2018-01-26
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://eraikakou.github.io/"><b>Data Explosion</b></a> is a blog including posts and projects regarding big data systems, machine learning models and some maths.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+My goal is to share projects related to Data Science field fully documented followed by references on the corresponding code. My content will be focused on Text Mining area, Machine Learning and Deep Learing Models, as well as on some theory explanations and maths. 
 
-## Preview
+I'm always open to ideas of how to improve my projects, or the website in general, so please get in touch with suggestions :) 
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% capture images %} https://www.kdnuggets.com/wp-content/uploads/machine-learning-algorithms-blackboard.jpg {% endcapture %} {% include gallery images=images caption="General Image" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Jenny Raikakou
 
-## Getting Started
+* Software Engineer @ Tripsta
+* Student in Data Science Master Program at Athens University of Economics and Business
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Contact Me
+t.raikakou@gmail.com
