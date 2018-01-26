@@ -12,10 +12,11 @@ My goal is to share projects related to Data Science field fully documented foll
 
 I'm always open to ideas of how to improve my projects, or the website in general, so please get in touch with suggestions :) 
 
-{% capture images %} https://www.kdnuggets.com/wp-content/uploads/machine-learning-algorithms-blackboard.jpg {% endcapture %} {% include gallery images=images caption="General Image" cols=2 %}
+{% capture images %} https://www.kdnuggets.com/wp-content/uploads/machine-learning-algorithms-blackboard.jpg {% endcapture %} {% include gallery images=images caption="" cols=2 %}
 
-## Jenny Raikakou
+## About Me
 
+Jenny Raikakou
 * Software Engineer @ Tripsta
 * Student in Data Science Master Program at Athens University of Economics and Business
 
