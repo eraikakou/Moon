@@ -1,6 +1,6 @@
 <p> Python 3 Interview Questions Part 1 </p>
 
-### __Question 1__
+<span style="color:red">Question 1</span>
 
 What will be the output of the following code :
 ```python
