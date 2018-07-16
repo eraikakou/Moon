@@ -101,7 +101,7 @@ print (9/2)
 
 Which function overloads the >> operator?
 
-**Anwser: rshift() **
+**Anwser: rshift**
 
 **Explanation:** rshift() overloads the >> operator. >> Binary Right Shift The left operand's value is moved right by the number of bits specified by the right operand.
 
