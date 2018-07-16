@@ -67,9 +67,9 @@ id(y)
 
 Suppose list1 is [3, 4, 5, 20, 5, 25, 1, 3], what is list1 after list1.pop(1)?
 ```python
-y = 8
-z = lambda x : x * y
-print(z(6))
+list1 = [3, 4, 5, 20, 5, 25, 1, 3]
+list1.pop(1)
+print(list1)
 ```
 **Anwser: [3, 5, 20, 5, 25, 1, 3]**
 
