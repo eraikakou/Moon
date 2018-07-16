@@ -109,3 +109,29 @@ Which function overloads the >> operator?
 
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Rotate_right_logically.svg/210px-Rotate_right_logically.svg.png)
+
+#### Question 11
+
+Which operator is overloaded by the or() function?
+
+**Anwser: | **
+
+**Explanation:** or() function overloads the bitwise OR operator. 
+Python Bitwise Operators
+Bitwise operator works on bits and performs bit-by-bit operation. Assume if a = 60; and b = 13; Now in binary format they will be as follows −
+
+a = 0011 1100
+
+b = 0000 1101
+
+-----------------
+
+a&b = 0000 1100 [& Binary AND]
+
+a|b = 0011 1101 [| Binary OR]
+
+a^b = 0011 0001 [^ Binary XOR]
+
+~ a = 1100 0011 [~ Binary Ones Complement] 
+
+Binary Left/RIght Shift
