@@ -94,7 +94,7 @@ What is the output of the following code :
 print (9//2)
 print (9/2)
 ```
-**Anwser: 4 4.5**
+**Anwser: 4, 4.5**
 
 **Explanation:** The ‘//’ operator in Python returns the integer part of the floating number.
 
@@ -115,7 +115,7 @@ Which function overloads the >> operator?
 
 Which operator is overloaded by the or() function?
 
-**Anwser: | **
+**Anwser: `|` **
 
 **Explanation:** or() function overloads the bitwise OR operator. 
 Python Bitwise Operators
@@ -225,9 +225,9 @@ To start Python from the command prompt, use the command ______
 
 Which of the following is correct about Python?
 
--It supports automatic garbage collection.
--It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java
--Both of the above
--None of the above
+- It supports automatic garbage collection.
+- It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java
+- Both of the above
+- None of the above
 
 **Anwser:  Both of the above**
