@@ -128,10 +128,24 @@ b = 0000 1101
 
 a&b = 0000 1100 [& Binary AND]
 
-a|b = 0011 1101 [| Binary OR]
+a`|`b = 0011 1101 [`|` Binary OR]
 
 a^b = 0011 0001 [^ Binary XOR]
 
 ~ a = 1100 0011 [~ Binary Ones Complement] 
 
 Binary Left/RIght Shift
+
+#### Question 12
+
+What is the output of the following program :
+```python
+i = 0
+while i < 3:
+       print(i)
+       i++
+       print (i+1)
+```
+**Anwser: Error**
+
+**Explanation:** There is no operator ++ in Python
