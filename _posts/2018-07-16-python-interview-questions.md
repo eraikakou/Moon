@@ -149,3 +149,61 @@ while i < 3:
 **Anwser: Error**
 
 **Explanation:** There is no operator ++ in Python
+
+### __***Question 13***__
+
+What is the output of the following program :
+```python
+print ("Hello World"[::-1])
+print ("Hello World"[::])
+```
+**Anwser: dlroW olleH, Hello World**
+
+**Explanation:** [::] depicts extended slicing in Python and [::-1] returns the reverse of the string.
+
+### __***Question 14***__
+
+Given a function that does not return any value, what value is shown when executed at the shell?
+
+**Anwser: None**
+
+**Explanation:** Python explicitly defines the None object that is returned if no value is specified.
+
+### __***Question 15***__
+
+Which module in Python supports regular expressions?
+
+**Anwser: re**
+
+**Explanation:** re is a part of the standard library and can be imported using: import re.
+
+### __***Question 16***__
+
+What is the output of the following program :
+```python
+print( 0.1 + 0.2 == 0.3)
+```
+**Anwser: False**
+
+**Explanation:** Neither of 0.1, 0.2 and 0.3 can be represented accurately in binary. The round off errors from 0.1 and 0.2 accumulate and hence there is a difference of 5.5511e-17 between (0.1 + 0.2) and 0.3.
+
+### __***Question 17***__
+
+Which of the following is not a complex number?
+
+**Anwser: k = 2 + 3l**
+
+**Explanation:** l (or L) stands for long.
+
+### __***Question 18***__
+
+Given a string s = “Welcome”, which of the following code is incorrect?
+- print s[0]
+- print s.lower()
+- s[1] = ‘r’
+- print s.strip()
+
+**Anwser:  s[1] = ‘r’**
+
+**Explanation:** strings are immutable in Python.
+
