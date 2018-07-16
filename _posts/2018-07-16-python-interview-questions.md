@@ -1,5 +1,6 @@
 
 <span style="font-weight:bold; font-size:18px; text-align:center;">Python 3 Interview Questions Part 1</span>
+
 <span style="color:red; font-weight:bold; font-style:italic; font-size:16px;">Question 1</span>
 
 What will be the output of the following code :
