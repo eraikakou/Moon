@@ -84,3 +84,28 @@ print(time.time())
 **Anwser: the current time in milliseconds since midnight**
 
 **Explanation:** Return the time in seconds since the epoch as a floating point number. The specific date of the epoch and the handling of leap seconds is platform dependent. On Windows and most Unix systems, the epoch is January 1, 1970, 00:00:00 (UTC) and leap seconds are not counted towards the time in seconds since the epoch. This is commonly referred to as Unix time. To find out what the epoch is on a given platform, look at gmtime(0).
+
+#### Question 9
+
+What is the output of the following code :
+
+```python
+print (9//2)
+print (9/2)
+```
+**Anwser: 4 4.5**
+
+**Explanation:** The ‘//’ operator in Python returns the integer part of the floating number.
+
+#### Question 10
+
+Which function overloads the >> operator?
+
+**Anwser: rshift() **
+
+**Explanation:** rshift() overloads the >> operator. >> Binary Right Shift The left operand's value is moved right by the number of bits specified by the right operand.
+
+**Logical right shift one bit:**
+
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Rotate_right_logically.svg/210px-Rotate_right_logically.svg.png)
